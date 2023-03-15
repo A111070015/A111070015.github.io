@@ -14,9 +14,9 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 
 .expedu-icon{
     color:#495057;
+    text-decoration:none;
 }
 
 .expedu-icon:hover{
-    background-color:#495057;
-    color:#fff;
+    color:var(--bs-primary);
 }
