@@ -12,11 +12,11 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     text-transform: none;
 }
 
-.expedu_icon{
+.expedu-icon{
     color:#495057;
 }
 
-.expedu_icon:hover{
+.expedu-icon:hover{
     background-color:#495057;
     color:#fff;
 }
