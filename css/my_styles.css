@@ -28,8 +28,11 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     --bs-secondary-rgb:95,164,181;
 }
 
-a:hover{
+a{
     color:var(--bs-primary);
+}
+a:hover{
+    color:var(--bs-secondary);
 }
 
 .social-icons .social-icon:hover{
