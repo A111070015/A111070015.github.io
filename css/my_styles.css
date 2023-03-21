@@ -20,3 +20,18 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 .expedu-icon:hover{
     color:var(--bs-primary);
 }
+
+:root{
+    --bs-primary:#7d78c3;
+    --bs-primary-rgb:125,120,195;
+    --bs-secondary:#91754b;
+    --bs-secondary-rgb:145,117,75;
+}
+
+a{
+    color:var(--bs-primary);
+}
+
+.social-icons .social-icon:hover{
+    background-color:var(--bs-secondary);
+}
