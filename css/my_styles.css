@@ -41,6 +41,7 @@ a:hover{
 .fa-li{
     font-size: 1.5rem;
 }
-ul>li ul>li:hover{
+.ul>li:hover{
     background-color:#bed4da;
+    text-decoration:none;
 }
