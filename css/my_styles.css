@@ -52,21 +52,24 @@ a:hover{
     height:4rem;
 }
 .card{
-    margin-top: -320px;
-    margin-left: -340px;
-    margin-right: -60px;
-    margin-bottom: 60px;
+    margin-top: -32em;
+    margin-left: -34em;
+    margin-right: -6em;
+    margin-bottom: 6em;
 }
 .card-title{
     color:#ff9b19af;
-    font-size: 100px;
-    margin-top: 290px;
-    left: 50%;
-    right: 50%;
+    font-size: 5em;
+    margin-top: 29rem;
+    left: 50rem;
+    right: 50rem;
     text-align: center;
 }
 .card-text{
-    font-size:50px ;
+    font-size:3rem ;
     text-align: center;
     color:#010304
+}
+.小論文-h1{
+    font-size: 50px;
 }
