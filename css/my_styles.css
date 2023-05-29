@@ -29,11 +29,11 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 a{
-    color:#1d9bd5;
+    color:#1e4557;
     text-decoration:none;
 }
 a:hover{
-    color:var(--bs-secondary);
+    color:#0c54a1;
     text-decoration:none;
 }
 
@@ -50,4 +50,7 @@ a:hover{
 }
 .ws{
     height:4rem;
+}
+.home{
+    background: -webkit-image-set();
 }
