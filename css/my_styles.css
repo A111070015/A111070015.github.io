@@ -33,7 +33,7 @@ a{
     text-decoration:none;
 }
 a:hover{
-    color:#0c54a1;
+    color:#177be6;
     text-decoration:none;
 }
 
@@ -51,6 +51,22 @@ a:hover{
 .ws{
     height:4rem;
 }
-.home{
-    background: -webkit-image-set();
+.card{
+    margin-top: -320px;
+    margin-left: -340px;
+    margin-right: -60px;
+    margin-bottom: 60px;
+}
+.card-title{
+    color:#ff9b19af;
+    font-size: 100px;
+    margin-top: 290px;
+    left: 50%;
+    right: 50%;
+    text-align: center;
+}
+.card-text{
+    font-size:50px ;
+    text-align: center;
+    color:#010304
 }
