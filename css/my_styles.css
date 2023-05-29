@@ -52,24 +52,19 @@ a:hover{
     height:4rem;
 }
 .card{
-    margin-top: -32em;
-    margin-left: -34em;
-    margin-right: -6em;
-    margin-bottom: 6em;
+    margin-bottom: 2em;
+   
 }
 .card-title{
     color:#ff9b19af;
-    font-size: 5em;
-    margin-top: 29rem;
-    left: 50rem;
-    right: 50rem;
+    font-size: 5rem;
+    margin-top: 5rem;
     text-align: center;
+    flex-wrap: nowrap;
 }
 .card-text{
     font-size:3rem ;
     text-align: center;
-    color:#010304
-}
-.card-body{
-    width:31em;
+    color:#010304;
+    flex-wrap: nowrap;
 }
