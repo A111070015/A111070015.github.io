@@ -1,5 +1,6 @@
 body{
     font-family: 'Noto Sans TC',sans-serif;
+
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
@@ -53,18 +54,26 @@ a:hover{
 }
 .card{
     margin-bottom: 2em;
+
    
 }
 .card-title{
     color:#ff9b19af;
-    font-size: 5rem;
+    font-size: 8vw;
     margin-top: 5rem;
     text-align: center;
     flex-wrap: nowrap;
 }
 .card-text{
-    font-size:3rem ;
+    font-size:3vw ;
     text-align: center;
     color:#010304;
     flex-wrap: nowrap;
+    font-weight: bold;
+}
+.card-body{
+    font-weight: bold;
+}
+.yy{
+    padding-left:0px;
 }
