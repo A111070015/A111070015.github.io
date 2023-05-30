@@ -90,5 +90,9 @@ a:hover{
     width: 62vw;
     height: 30vw;
 }
-
+.img-fluid-2{
+    width: 55vw;
+    height: 40vw;
+    vertical-align: text-top;
+}
 
