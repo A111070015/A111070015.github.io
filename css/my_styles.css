@@ -65,6 +65,10 @@ a:hover{
     text-align: center;
     flex-wrap: nowrap;
 }
+.card-title-h5{
+    color:#010304;
+    font-size: 2vw;
+}
 .card-text{
     font-size:3vw ;
     text-align: center;
@@ -74,7 +78,23 @@ a:hover{
 }
 .card-body{
     font-weight: bold;
+    height:3rem;
 }
 .yy{
     padding-left:0px;
 }
+.it{
+    font-size: 2vw;
+    flex-wrap: wrap;
+}
+.img-fluid{
+    width: 47vw;
+    height: 50vw;
+    vertical-align:text-top;
+}
+.accordion{
+    width: 62vw;
+    height: 30vw;
+}
+
+
