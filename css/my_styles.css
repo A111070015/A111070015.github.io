@@ -54,7 +54,7 @@ a:hover{
 }
 .card{
     margin-bottom: 2rem;
-    margin-top: -15vw;
+    margin-top: -17vw;
     margin-left:-6vw ;
     margin-right: -6vw;
 }
@@ -65,10 +65,7 @@ a:hover{
     text-align: center;
     flex-wrap: nowrap;
 }
-.card-title-h5{
-    color:#010304;
-    font-size: 2vw;
-}
+
 .card-text{
     font-size:3vw ;
     text-align: center;
@@ -76,10 +73,7 @@ a:hover{
     flex-wrap: nowrap;
     font-weight: bold;
 }
-.card-body{
-    font-weight: bold;
-    height:3rem;
-}
+
 .yy{
     padding-left:0px;
 }
