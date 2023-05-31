@@ -76,6 +76,7 @@ a:hover{
 
 .yy{
     padding-left:0px;
+
 }
 .it{
     font-size: 2vw;
@@ -87,12 +88,25 @@ a:hover{
     vertical-align:text-top;
 }
 .accordion{
-    width: 62vw;
+    width: 40vw;
     height: 30vw;
+    overflow: auto;
 }
+
 .img-fluid-2{
-    width: 55vw;
+    width: 60vw;
     height: 40vw;
     vertical-align: text-top;
+}
+.btn{
+    background-color: #4a6c95;
+    color:aliceblue;
+}
+.btn:hover{
+    background-color: #9ab4cf;
+    color:rgb(56, 59, 61);
+}
+.resume-section-content{
+
 }
 
