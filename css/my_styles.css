@@ -88,9 +88,12 @@ a:hover{
     vertical-align:text-top;
 }
 .accordion{
-    width: 35vw;
+    width: 30vw;
     height: 30vw;
     overflow: auto;
+    position: relative;
+    top:10vw;
+    left:3vw;
 }
 
 .img-fluid-2{
